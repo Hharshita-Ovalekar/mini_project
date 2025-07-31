@@ -1,3 +1,3 @@
 # mini_project
-Calculator website
-It works to calculate numbers.
+Calculator 
+It is use to calculate numbers.
